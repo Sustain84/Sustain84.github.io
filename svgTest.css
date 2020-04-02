@@ -1,0 +1,11 @@
+.list-of-rooms li.on {
+  background: red;
+  color: white;
+  font-weight: bold;
+}
+rect.on {
+  fill: rgb(200,200,200);
+}
+a {
+	text-decoration: none;
+}
